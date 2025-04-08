@@ -74,12 +74,3 @@ Key steps included:
 | **Nayana Ann Moni** | Data preprocessing, logistic regression, visualization, report writing |
 | **Rosmi** | Data cleaning, mining, visualizations, report writing (discussion, intro & conclusion) |
 | **Adewale Arogbonlo** | Decision tree modeling, result analysis, business scenario writing |
-
----
-
-References
-
-- Clark et al. (2016). *Endoscopy International Open*
-- Jiang et al. (2018). *Knowledge-Based Systems*
-- Cui et al. (2018). *Elsevier*
-- Goudjerkan & Jayabalan (2019). *SAI Organization*
