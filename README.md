@@ -71,6 +71,6 @@ Key steps included:
 
 | Name              | Contributions |
 |-------------------|----------------|
-| **Nayana Ann Moni** | Data preprocessing, logistic regression, visualization, report writing |
-| **Rosmi** | Data cleaning, mining, visualizations, report writing (discussion, intro & conclusion) |
+| **Nayana Ann Moni** | Data preprocessing, logistic regression, visualization, documentation|
+| **Rosmi** | Data cleaning, mining, visualization, documentation |
 | **Adewale Arogbonlo** | Decision tree modeling, result analysis, business scenario writing |
